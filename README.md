@@ -10,7 +10,7 @@ Once that was done, I had a difficult time understanding exactly what format the
 
 ![Loss calculations](https://github.com/D-Nations/UDLND---Project-1---Predicting-Bike-Sharing-Patterns/blob/master/images/Bike-Sharing%20Functions%202.PNG)
 
-## Training the Project
+## Training the Model
 
 In order to train this project for yourself, download the data set zip and put it into the same folder as the main project and the my_answers.py files.  
 
